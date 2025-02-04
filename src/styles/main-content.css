@@ -89,7 +89,32 @@
   font-weight: 700;
   border-radius: 40px;
 }
+.playlist-container{
+  height: 68vh;
+  padding-top: 16px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #121212;
+}
+
+.playlist{
+  margin: 24px;
+}
+
+.playlist #greeting{
+  color: #fff;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 48px;
+}
+
+.playlist .session
 
 
+.offer-scroll-container{
+  max-height: 43vh;
+  margin: 24px;
+  overflow: auto;
+}
 
 
